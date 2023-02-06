@@ -1,0 +1,39 @@
+{
+    "project_info": {
+      "project_number": "1090390161206",
+      "project_id": "spidi-africa-7e716",
+      "storage_bucket": "spidi-africa-7e716.appspot.com"
+    },
+    "client": [
+      {
+        "client_info": {
+          "mobilesdk_app_id": "1:1090390161206:android:5ce5efee719ecebc672597",
+          "android_client_info": {
+            "package_name": "com.spidico.tz"
+          }
+        },
+        "oauth_client": [
+          {
+            "client_id": "1090390161206-0df3b5eesv1hlt37eosllp1rotiq0dt1.apps.googleusercontent.com",
+            "client_type": 3
+          }
+        ],
+        "api_key": [
+          {
+            "current_key": "AIzaSyDtK79y2YxdBtuJYGFAYqaoe-HSDvZsXLQ"
+          }
+        ],
+        "services": {
+          "appinvite_service": {
+            "other_platform_oauth_client": [
+              {
+                "client_id": "1090390161206-0df3b5eesv1hlt37eosllp1rotiq0dt1.apps.googleusercontent.com",
+                "client_type": 3
+              }
+            ]
+          }
+        }
+      }
+    ],
+    "configuration_version": "1"
+  }

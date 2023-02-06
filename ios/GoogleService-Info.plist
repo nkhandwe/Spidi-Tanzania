@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>1090390161206-lasicetccn47li7ojrb3dsk89pvgipu6.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.1090390161206-lasicetccn47li7ojrb3dsk89pvgipu6</string>
+	<key>API_KEY</key>
+	<string>AIzaSyCxPV_PlpCrlEtxdjybP5Ann5fqPLn_9Mk</string>
+	<key>GCM_SENDER_ID</key>
+	<string>1090390161206</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.spidico.tz</string>
+	<key>PROJECT_ID</key>
+	<string>spidi-africa-7e716</string>
+	<key>STORAGE_BUCKET</key>
+	<string>spidi-africa-7e716.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:1090390161206:ios:5b1ada9e84e0248d672597</string>
+</dict>
+</plist>
